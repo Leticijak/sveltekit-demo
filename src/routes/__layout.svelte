@@ -4,7 +4,7 @@
 </script>
 
 <header>
-	<Title title="Kiki gaming guides" />
+	<Title title="Kiki's gaming guides" />
 </header>
 
 <main>
@@ -13,7 +13,7 @@
 </main>
 
 <footer>
-	<p>Copyright &copy; 2022 Kiki Gaming Guides</p>
+	<p>Copyright &copy; 2022 Kiki's Gaming Guides</p>
 </footer>
 
 <style>

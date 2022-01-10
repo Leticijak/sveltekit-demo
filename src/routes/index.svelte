@@ -2,7 +2,7 @@
 </script>
 
 <div class="index">
-	<h2>Welcome Svelte</h2>
+	<h2>Welcome Traveler</h2>
 	<p>
 		Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe vel doloremque asperiores
 		eligendi reiciendis magnam nihil! Quos nam possimus adipisci placeat quibusdam corporis natus
