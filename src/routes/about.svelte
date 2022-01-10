@@ -10,6 +10,8 @@
 		deleniti blanditiis laborum, fuga harum, voluptatibus deserunt, obcaecati corporis adipisci
 		mollitia.
 	</p>
+	<a href="/guides">View Guides</a>
+	<a href="/">Home</a>
 </div>
 
 <style>
